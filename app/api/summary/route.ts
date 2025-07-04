@@ -18,7 +18,7 @@ export async function POST(request: NextRequest) {
 
     const { text: summary } = await generateText({
       model: cohere("command-r-plus", {
-        apiKey: "J6DKVTdem0n9xxU6dAvDyonjW7DgUxiwIzYZipz5",
+        apiKey: "YOUR_API_KEY",
       }),
       system: `You are an expert educational assistant. ${difficultyPrompts[difficulty as keyof typeof difficultyPrompts]} of the provided text. Keep it concise but informative. Respond in ${language === "fr" ? "French" : language === "ar" ? "Arabic" : "English"}.`,
       prompt: `Please summarize the following text:\n\n${text}`,
