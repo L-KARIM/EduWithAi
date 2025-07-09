@@ -121,4 +121,4 @@ MIT License
 👤 Auteur
 Karim Laafif
 Étudiant en Data Engineering – ESTA Agadir
-<a href="(https://www.linkedin.com/in/l-karim/)">LinkedIn </a>
+<a href="https://www.linkedin.com/in/l-karim/">LinkedIn</a>
