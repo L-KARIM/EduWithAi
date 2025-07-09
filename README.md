@@ -10,8 +10,15 @@ Pensée pour les étudiants, les enseignants et les autodidactes, elle résume, 
 ## 📽️ Video Demo
 
 Watch the live demo:  
-👉  
-https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8
+👉  <iframe
+  width="100%"
+  height="400"
+  src="https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
 
 ---
 
@@ -57,18 +64,18 @@ https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8
 
 
 EduWithAi (Monorepo)
-├── frontend/ (React App)
-│   ├── pages/
-│   ├── components/
-│   └── services/
-├── backend/ (Express API)
-│   ├── routes/
-│   ├── controllers/
-│   └── services/
-├── ai/ (AI utilities)
-│   └── summarizer.js
-└── database/
-    └── models/
+ frontend/ (React App)
+    pages/
+    components/
+    services/
+ backend/ (Express API)
+    routes/
+    controllers/
+    services/
+ ai/ (AI utilities)
+    summarizer.js
+ database/
+     models/
 ---
 
 ## ⚙️ Setup
