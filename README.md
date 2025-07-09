@@ -10,17 +10,16 @@ Pensée pour les étudiants, les enseignants et les autodidactes, elle résume, 
 ## 📽️ Video Demo
 
 Watch the live demo:  
-👉  https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8
+👉  
+https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8
 
 ---
 
 ## 🖼️ Screenshots
 
-| Dashboard | Summarization | Quiz Generator |
-|----------|----------------|----------------|
-| !<img width="1942" height="919" alt="Image" src="https://github.com/user-attachments/assets/10fa0b69-504c-4de4-8703-291adbf5174e" /> |
-!<img width="1936" height="913" alt="Image" src="https://github.com/user-attachments/assets/b15744f9-51b3-4b9c-8921-581f1a79043e" /> |
-!<img width="2047" height="913" alt="Image" src="https://github.com/user-attachments/assets/e3e1e903-c10b-4866-a5e9-9ffa2fd1ac29" /> |
+<img width="1942" height="919" alt="Image" src="https://github.com/user-attachments/assets/10fa0b69-504c-4de4-8703-291adbf5174e" /> 
+<img width="1936" height="913" alt="Image" src="https://github.com/user-attachments/assets/b15744f9-51b3-4b9c-8921-581f1a79043e" /> 
+<img width="2047" height="913" alt="Image" src="https://github.com/user-attachments/assets/e3e1e903-c10b-4866-a5e9-9ffa2fd1ac29" /> 
 <img width="2122" height="913" alt="Image" src="https://github.com/user-attachments/assets/033cd75e-99ba-4685-89ad-dc86b28fdab8" />
 
 ---
