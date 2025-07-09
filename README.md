@@ -10,14 +10,7 @@ Pensée pour les étudiants, les enseignants et les autodidactes, elle résume, 
 ## 📽️ Video Demo
 
 Watch the live demo:  
-👉  <iframe
-  width="100%"
-  height="400"
-  src=""
-  frameBorder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowFullScreen
-></iframe>
+
 [![Watch the demo]([https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8)]
 
 ---
@@ -61,20 +54,19 @@ Watch the live demo:
 - **Deployment**: Vercel or Render
 
 
-
-
 EduWithAi (Monorepo)
- frontend/ (React App)
+
+* frontend/ (React App)
     pages/
     components/
     services/
- backend/ (Express API)
+* backend/ (Express API)
     routes/
     controllers/
     services/
- ai/ (AI utilities)
+* ai/ (AI utilities)
     summarizer.js
- database/
+*  database/
      models/
 ---
 
