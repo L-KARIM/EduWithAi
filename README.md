@@ -11,7 +11,7 @@ Pensée pour les étudiants, les enseignants et les autodidactes, elle résume, 
 
 Watch the live demo:  
 
-[![Watch the demo]([https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8)]
+[![Watch the demo](https://github.com/user-attachments/assets/aee5183f-e917-462c-b573-c997f06808c8)
 
 ---
 
@@ -57,17 +57,17 @@ Watch the live demo:
 EduWithAi (Monorepo)
 
 * frontend/ (React App)
-    pages/
-    components/
-    services/
+    *pages/
+    *components/
+    *services/
 * backend/ (Express API)
-    routes/
-    controllers/
-    services/
+    *routes/
+    *controllers/
+    *services/
 * ai/ (AI utilities)
-    summarizer.js
+    *summarizer.js
 *  database/
-     models/
+     *models/
 ---
 
 ## ⚙️ Setup
@@ -87,7 +87,7 @@ npm run dev
 
 ---
 
-3.Backend Setup
+3. Backend Setup
 
     ```bash
     cd server
